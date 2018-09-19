@@ -1,2 +1,0 @@
-# Practice
-for web Applications
